@@ -1,0 +1,137 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Zachary Arrington",
+    "label": "Software Developer",
+    "image": "",
+    "email": "Zachary.Arrington37@gmail.com",
+    "phone": "(817) 526-4437",
+    "url": "http://www.zacharyarrington.com/",
+    "summary": "I make maps and write code. A self taught, hard working Developer that is interested in modern technologies and building cool things.",
+    "location": {
+      "address": "",
+      "postalCode": "76104",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [{
+      "network": "",
+      "username": "",
+      "url": ""
+    }]
+  },
+  "work": [{
+      "name": "Oncor Electric Delivery",
+      "location": "Fort Worth, Tx",
+      "description": "Texas Electric Utility Company",
+      "position": "Software Developer SR.",
+      "url": "https://www.oncor.com/SitePages/AboutUs.aspx",
+      "startDate": "2016-08-01",
+      "summary": "In the 5 years I have been with Oncor I have worked on several projects and initiatives to bring our utility network up to speed with the modern world. Using GIS as a launching point I was able to influence modern changes in decades old workflows and revolutionize processes. I was a full stack developer on muliple applications and managed all aspects of the development cycle.",
+      "highlights": [
+        "GIS SME for enterprise wide GIS conversion project",
+        "Nominated for 2 Spirit of Innovation Awards",
+        "Produced applications that have saved hundred of man hours."
+      ]
+    }
+    
+  ],
+  "education": [{
+    "institution": "Texas A&M University",
+    "url": "https://www.tamu.edu/",
+    "area": "Geographic Information Systems",
+    "studyType": "B.Sc",
+    "startDate": "2011-08-01",
+    "endDate": "2015-12-15",
+    "score": "4.0",
+    "courses": [
+      "Specialized focus on web based GIS"
+    ]
+  }],
+  "awards": [{
+    "title": "Spirit of Innovation award Nominee",
+    "date": "2019",
+    "awarder": "Oncor Electric Delivery",
+    "summary": "Award for individuals and teams in recognition of an innovative project or initiative that impacted the company and its daily processes."
+  }],
+  
+  "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "WebGIS",
+        "Nodejs",
+        "Python"
+      ]
+    },
+    {
+      "name": "GIS",
+      "level": "Master",
+      "keywords": [
+        "ArcMap",
+        "QGIS",
+        "Analytics"
+      ]
+    }
+  ],
+  "interests": [{
+    "name": "Out Doors",
+    "keywords": [
+      "Hiking",
+      "Camping",
+      "Mountaineering"
+    ]
+  }],
+  "projects": [{
+    "name": "Distribution Upgrade Consensus Tool",
+    "description": "GIS platform that allows the the installation and tracking of electric automation devices.",
+    "startDate": "2019-01-15",
+    "highlights": [
+      "Nominated for a Spirit of Innovation Award 2019",
+      "Solo project"
+    ],
+    "keywords": [
+      "GoogleMaps",
+      "Leaflet",
+      "JavaScript",
+      "SQL"
+    ],
+    "url": "",
+    "roles": [
+      "Team lead",
+      "Designer"
+    ],
+    "entity": "",
+    "type": "application"
+  },{
+    "name": "Distribution Material Management Reports",
+    "description": "Reporting platform to track multiple process flows including financial information and material distribution and accounting.",
+    "startDate": "2020-10-01",
+    "highlights": [
+      "Nominated for a Spirit of Innovation Award 2020",
+      "Built as a template for dynamic reporting."
+    ],
+    "keywords": [
+      "Grid.js",
+      "Kendo",
+      "JavaScript",
+      "SQL"
+    ],
+    "url": "",
+    "roles": [
+      "Team lead",
+      "Designer"
+    ],
+    "entity": "",
+    "type": "application"
+  }],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
